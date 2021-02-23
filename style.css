@@ -1,0 +1,70 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: black;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    padding: 2px 0px;
+    /* border: 1px solid; */
+}
+
+header ul{
+    list-style-type: none;
+  
+}
+header li{
+    display: inline;
+    display: inline-block;
+    padding: 5px;
+}
+header a{
+    color: white;
+    text-decoration: none;
+}
+.Logo{
+    display: flex;
+    justify-content: center;
+
+
+}
+nav{
+    text-align: center;
+    border: 0px solid;
+
+}
+nav ul{
+    list-style-type: none;
+    background-color: white;
+    color: black;
+  
+
+}
+nav li{
+    display: inline;
+    display: inline-block;
+    padding: 5px;
+    
+}
+nav a{
+    color: black;
+    text-decoration: none;
+}
+
+.mainimage{
+    display: flex;
+    justify-content: center;
+}
+.mainimage img{
+    height: 720px;
+    width: 1280px;
+
+}
+.paras{
+    margin: 0 auto;
+    width: 600px;
+    
+}
